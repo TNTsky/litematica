@@ -1,5 +1,5 @@
 {
-    "litematica.config.generic.name.easyPlaceProtocolVersion": "簡易放置協議版本",
+    "litematica.config.generic.name.easyPlaceProtocolVersion": "輕鬆放置協議版本",
     "litematica.config.generic.name.pasteNbtRestoreBehavior": "NBT 遷移",
     "litematica.config.generic.name.pasteReplaceBehavior": "貼上替換模式",
     "litematica.config.generic.name.placementReplaceBehavior": "放置替換模式",
